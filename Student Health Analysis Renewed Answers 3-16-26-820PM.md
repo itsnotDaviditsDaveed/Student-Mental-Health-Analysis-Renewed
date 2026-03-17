@@ -63,8 +63,8 @@
 **Question 4: Which mood state does most students of the dataset feel?**
 
 
+<img width="1811" height="785" alt="Sheet 2" src="https://github.com/user-attachments/assets/f39bc166-c7d9-46cf-bf28-7f71c1902bbb" />
 
-**Paste Picture Here**:
 
 
 
@@ -85,8 +85,11 @@ The mood state in which most students feel is **NEUTRAL.**
 **Question 5: Does more or less academic tasks have a relationship with health risk levels?**
 
 
+-- Study Hours
+<img width="1811" height="785" alt="Study Hours vs Health Risk Level" src="https://github.com/user-attachments/assets/e04e49ad-3309-4e84-90c6-45baf14f7e96" />
 
-**Paste Picture Here**
+-- Project Hours
+<img width="1788" height="785" alt="Project Hours vs Health Risk Level" src="https://github.com/user-attachments/assets/851e94c6-9df9-413e-93e6-f48541e98bba" />
 
 
 
