@@ -47,7 +47,10 @@
 
 
 **Paste Picture Here:**
-[Visualization] (renewed_std_images/Sleep Quality vs Mood.png)
+[Visualization]
+<img width="1790" height="785" alt="Sleep Quality vs Mood" src="https://github.com/user-attachments/assets/4c3b53dd-7211-457a-a703-00e41804cba2" />
+
+
 
 
 
