@@ -92,9 +92,6 @@ The mood state in which most students feel is **NEUTRAL.**
 <img width="1788" height="785" alt="Project Hours vs Health Risk Level" src="https://github.com/user-attachments/assets/851e94c6-9df9-413e-93e6-f48541e98bba" />
 
 
-
-
-
 * As **average study hours** go up, the **health risk** goes from **high** to **moderate**.
 * As **average project hours** goes up, **the health risk** goes from **low** to **high** to **moderate**.
 
@@ -105,11 +102,7 @@ The mood state in which most students feel is **NEUTRAL.**
 
 
 **Question 6: Compare gender and maybe age with average heart rate.**
-
-
-
-**Paste Picture Here:**
-
+<img width="1788" height="785" alt="Gender   Age vs Heart Rate" src="https://github.com/user-attachments/assets/3fc9a16f-e0a7-44ab-89a7-24e56fa5c9e0" />
 
 
 * The highest amount of females who are aged 22 have the highest average heart rate. **(66 females have an average of 73.4 heart rate)**
@@ -124,13 +117,11 @@ The mood state in which most students feel is **NEUTRAL.**
 
 
 **Question 7: Compare blood pressure with health risk level**
+-- Diastolic Blood Pressure<img width="1811" height="785" alt="Diastolic Blood Pressure vs Health Risk Level" src="https://github.com/user-attachments/assets/3a0815b9-e325-4f36-b25c-1f4351e2a177" />
 
 
-
-**Paste Picture**
-
-
-
+-- Systolic Blood Pressure
+<img width="1811" height="785" alt="Systolic Blood Pressure vs Health Risk Level" src="https://github.com/user-attachments/assets/369c4333-f4fd-48a0-8f6b-518d0da8c0ce" />
 
 
 * As average **blood pressure diastolic** goes up\*\*,\*\* the health risk goes from **high** to **moderate**.
@@ -147,9 +138,7 @@ The mood state in which most students feel is **NEUTRAL.**
 
 
 **Question 8: Compare gender with stress levels.**
-
-
-
+<img width="1788" height="785" alt="Gender vs Stress Levels" src="https://github.com/user-attachments/assets/2a77b02a-f188-4277-9eb7-78ab16b0c46e" />
 More females are stressed more than males. Males being average 5.3, and Female being 5.6
 
 
@@ -159,9 +148,7 @@ More females are stressed more than males. Males being average 5.3, and Female b
 
 
 **Question 9: Compare gender with self reported stress levels.**
-
-
-
+<img width="1788" height="785" alt="Gender vs Stress Self-Report levels" src="https://github.com/user-attachments/assets/18fb2522-bb81-44ba-8123-a10d55bc6960" />
 **Males have reported higher stress levels than females.**
 
 
@@ -182,6 +169,14 @@ More females are stressed more than males. Males being average 5.3, and Female b
 
 **Question 11: How does academic tasks affect with mood and stress levels?**
 
+-- Study Hours Vs Mood
+<img width="1811" height="785" alt="Study Hours vs Mood" src="https://github.com/user-attachments/assets/cc3c9623-9049-404d-871b-347d37f94416" />
+
+
+-- Project Hours Vs Mood
+<img width="1811" height="785" alt="Project Hours vs Mood" src="https://github.com/user-attachments/assets/c0c6c4ad-b3f1-4913-bf54-e494dd710117" />
+
+
 * As **average study hours** increase, the mood goes from **stressed** to **happy**.
 * **As average project hours increase, the mood goes from neutral to happy.**
 
@@ -191,7 +186,10 @@ More females are stressed more than males. Males being average 5.3, and Female b
 
 
 
+
 **Question 12: Does age have an affect on health risk levels?**
+<img width="1811" height="785" alt="Age vs Health Risk Levels" src="https://github.com/user-attachments/assets/ed71f425-26eb-4ae2-835b-74b9dee402c7" />
+
 
 **As the age increases, the health risk level goes from moderate to high.**
 
