@@ -43,15 +43,10 @@
 
 
 **Question 3: How does sleep quality affect mood states?**
-
-
-
 **Paste Picture Here:**
 [Visualization]
+
 <img width="1790" height="785" alt="Sleep Quality vs Mood" src="https://github.com/user-attachments/assets/4c3b53dd-7211-457a-a703-00e41804cba2" />
-
-
-
 
 
 * The highest amount of students who had a **good sleep quality** had a **neutral mood**, a little bit more than happy.
