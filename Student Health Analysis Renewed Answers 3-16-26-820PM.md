@@ -193,3 +193,22 @@ More females are stressed more than males. Males being average 5.3, and Female b
 
 **As the age increases, the health risk level goes from moderate to high.**
 
+
+
+#Summary: Student Health Risk Analysis
+
+According to the data: 
+
+* Sleep Quality is the Strongest Health Predictor. Students with good or moderate sleep quality consistently fall into low to moderate health risk categories, while poor sleep quality is strongly associated with high health risk.
+* Physical Activity Supports Better Sleep, although it has an indirect impact. Moderate to high physical activity levels are linked to better sleep quality, which in turn lowers health risk.
+* Mood is Stable but Not a Strong Differentiator. In other words, mood alone is not a reliable indicator of health risk.Most students report a neutral mood, regardless of sleep quality. While better sleep slightly improves mood, it does not guarantee positive emotional outcomes.
+* Academic Workload Has a Complex Effect. Increased study hours correlate with reduced health risk and improved mood. Increased project workload show some mixed effects, which potentially increase stress and health risk before stabilizing.
+However, not all academic effort impacts health equally.
+* In terms of gender, females actually have more stress than they claim to have. While men have less stress then they claim to have.
+* Age and Health Risk Trend Upward
+As age increases, students tend to shift toward higher health risk levels, suggesting cumulative stress or lifestyle factors.
+* Physiological Metrics Show Weak or Inconsistent Patterns
+Blood pressure and heart rate do not show clear, linear relationships with health risk in this dataset. (sleep, activity, workload) are more influential than biometrics here.
+
+
+The main problem is sleep quality. In order to improve student health, students should prioritize sleep which will directly reduce in high health risk cases. Also should promote physical activity, it will lead to better sleep quality. Balance academic work life. Improving sleep quality, supported by moderate physical activity and balanced academic demands, offers the most effective and scalable solution to reducing student health risks. Institutions that focus on these areas can expect measurable improvements in student well-being, performance, and long-term outcomes.
